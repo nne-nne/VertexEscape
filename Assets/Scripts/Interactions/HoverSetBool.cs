@@ -16,4 +16,9 @@ public class HoverSetBool : MonoBehaviour, IHoverable
         hover = false;
         Debug.Log("Hover, bye");
     }
+
+    public void Attack()
+    {
+        
+    }
 }
